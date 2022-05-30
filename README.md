@@ -1,10 +1,9 @@
-# Deep-Learning-for-Humanists 
-## @DHSI2022
+# Deep-Learning-for-Humanists @DHSI2022
 
 ### Instructor Information
 - Instructor: Hoyeol Kim
 - Email: hoyeolkim7@gmail.com
-- Twitter: @elibooklover
+- Twitter: [@elibooklover](https://twitter.com/elibooklover)
 - Course Github Repository: https://github.com/elibooklover/Deep-Learning-for-Humanists
 
 ### Course Description

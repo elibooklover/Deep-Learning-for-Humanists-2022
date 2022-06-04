@@ -42,6 +42,9 @@ By the end of the workshop, participants will:
 -	Victorian400
 
 3. Wednesday, June 8th (Day 3) - 1:20-4:00pm
+- Tensor
+- L1 and L2 loss functions
+- Normalization
 -	Experiments with GANs and cGANs
 
 4. Thursday, June 9th (Day 4) - 1:00-4:00pm

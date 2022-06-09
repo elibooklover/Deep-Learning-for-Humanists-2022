@@ -55,7 +55,7 @@ By the end of the workshop, participants will:
 -	Wrap-up
 
 ### Links
-1. "Sentiment Analysis Tricks with Keras, spaCy and Transformers by Duygu Altinok
+1. "Sentiment Analysis Tricks with Keras, spaCy and Transformers" by Duygu Altinok
 [https://www.youtube.com/watch?v=BbluclGbHPo](https://www.youtube.com/watch?v=BbluclGbHPo)
 
 2. Pseudo Lab (Discord)

@@ -48,7 +48,6 @@ By the end of the workshop, participants will:
 -	Experiments with GANs and cGANs
 
 4. Thursday, June 9th (Day 4) - 1:30-4:00pm
--	Experiment with your own dataset
 -	Transfer learning
 -	Multimodal deep learning
 -	Introduction to Azure by Sungjin Ahn (Microsoft)

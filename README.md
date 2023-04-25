@@ -4,7 +4,7 @@
 - Instructor: Hoyeol Kim
 - Email: hoyeolkim7@gmail.com
 - Twitter: [@elibooklover](https://twitter.com/elibooklover)
-- Course Github Repository: [https://github.com/elibooklover/Deep-Learning-for-Humanists](https://github.com/elibooklover/Deep-Learning-for-Humanists)
+- Course Github Repository: [https://github.com/elibooklover/Deep-Learning-for-Humanists-2022](https://github.com/elibooklover/Deep-Learning-for-Humanists-2022)
 
 ### Course Description
 This hands-on course will introduce exploratory data analysis (EDA), image preprocessing, and deep learning models for those who wish to explore deep learning for the digital humanities. This course will first introduce computer vision in deep learning, then exploratory data analysis using Google Colab. After that, participants will train GANs (Generative Adversarial Networks) and cGANs (conditional Generative Adversarial Networks) models to colorize black-and-white images. Throughout this course, participants will be able to create their own datasets for deep learning and run deep learning models with them.
